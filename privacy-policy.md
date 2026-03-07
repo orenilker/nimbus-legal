@@ -84,9 +84,9 @@ Nimbus Weather is not directed to children under 13. We do not knowingly collect
 
 If you have any questions about this Privacy Policy or want to request data deletion:
 
-**Email:** [your-email@domain.com]
+**Email:** orenilker@outlook.com
 **App:** Nimbus Weather
-**Developer:** [Your Name / Company Name]
+**Developer:** Ilker Oren
 
 ---
 
