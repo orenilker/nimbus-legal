@@ -74,5 +74,5 @@ These Terms are governed by the laws of [Your Country/State], without regard to 
 
 ## 9. Contact
 
-**Email:** [your-email@domain.com]
-**Developer:** [Your Name / Company Name]
+**Email:** orenilker@outlook.com
+**Developer:** Ilker Oren
