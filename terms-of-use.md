@@ -68,7 +68,7 @@ We may update these Terms of Use at any time. The updated version will be indica
 
 ## 8. Governing Law
 
-These Terms are governed by the laws of [Your Country/State], without regard to conflict of law principles.
+These Terms are governed by the laws of France, without regard to conflict of law principles.
 
 ---
 
