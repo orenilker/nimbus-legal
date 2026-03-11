@@ -5,7 +5,7 @@ If you have any questions, feedback, or issues, you can reach us using the infor
 
 ## Contact
 
-- **Email**: support@nimbusapp.example  
+- **Email**: orenilker@outlook.com  
 - **Response time**: We aim to respond within 2–3 business days.
 
 ## Frequently Asked Topics
@@ -17,5 +17,5 @@ If you have any questions, feedback, or issues, you can reach us using the infor
 ## Privacy
 
 To learn how we handle your data, please see our Privacy Policy:  
-https://yourdomain.com/privacy
+https://yourdomain.com/privacy](https://orenilker.github.io/nimbus-legal/privacy-policy
 
