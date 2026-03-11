@@ -17,5 +17,5 @@ If you have any questions, feedback, or issues, you can reach us using the infor
 ## Privacy
 
 To learn how we handle your data, please see our Privacy Policy:  
-https://yourdomain.com/privacy](https://orenilker.github.io/nimbus-legal/privacy-policy
+https://orenilker.github.io/nimbus-legal/privacy-policy
 
